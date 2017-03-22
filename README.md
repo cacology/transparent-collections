@@ -55,14 +55,16 @@ effort will be made in presentation here.
 ### Analysis of data
 
 The analysis will be a large CSV file that gives counts of each
-combination of these attributes within a category:
+combination of these attributes within several mutually exclusive
+categories:
 
 * Ownership: owner, license with backup, license with no backup,
   individual license
 * Finding method: in Virgo, not in Virgo but a known database, neither
   in Virgo nor a known database
 * Retrieval time: minutes, hours, days, weeks, months or more
-* Subject: by LC class letters
+* Subject: by LC class letters from the
+  [Outline](http://www.loc.gov/catdir/cpso/lcco/)
 * Era: recent (last 20 years), used (last century), antiquarian
   (older)
 * Market: Anglo-American, Western Europe, Eastern Asia, Latin America,
@@ -70,12 +72,14 @@ combination of these attributes within a category:
 * Form: electronic, physical
 * Browsable: physically, virtually, neither
 
-That is: owner, in Virgo, minutes, Z, recent, Anglo-American,
-physical, physically would be some number of titles, some number of
-dollars, etc. etc.  These categories are still being revised, but aim
-to express the intersections of the divisions recorded by the
-libraries and meaningful for serious research.  For each set of
-attributes, the report will provide:
+That is: "owner, in Virgo, minutes, Z, recent, Anglo-American,
+physical, physically" would be some number of titles, some number of
+dollars, etc. etc.  The total number of categories would be 4 x 3 x 5
+x 21 x 3 x 6 x 2 x 3 = 136,080, so they'd need to be populated by
+script.  These categories are still being revised, but aim to express
+the intersections of the divisions recorded by the libraries and
+meaningful for serious research.  For each set of attributes, the
+report will provide:
 
 * Number of bibliographic titles (a journal is one title as is
   a monograph)
