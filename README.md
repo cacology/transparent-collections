@@ -12,7 +12,7 @@ It follows a handful of principles:
 
 Wherever possible, the form of the data used by the libraries will be
 provided in a separate location from the report, but connected as
-clearly as feasible to the report.  The goal of the project is to
+clearly as feasibly to the report.  The goal of the project is to
 share the Libraries sense of its collections, not to hide them in
 another system, so the report must provide its sources.
 
