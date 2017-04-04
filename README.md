@@ -87,6 +87,7 @@ report will provide:
 * Number of dollars spent on licensing
 * Number of last copies of titles
 * Owned copies lost/stolen/destroyed
+* Owned copies found
 
 Some of these may be difficult to figure out, or perhaps impossible,
 but I'm starting with this goal for data collection.  I'd also like to
