@@ -65,8 +65,8 @@ categories:
 * Retrieval time: minutes, hours, days, weeks, months or more
 * Subject: by LC class letters from the
   [Outline](http://www.loc.gov/catdir/cpso/lcco/)
-* Era: recent (last 20 years), used (last century), antiquarian
-  (older)
+* Era: current (this year), recent (last 20 years), last-century,
+  antiquarian (older)
 * Market: Anglo-American, Western Europe, Eastern Asia, Latin America,
   Music, Video, [etc. by approval plans]
 * Form: electronic, physical
