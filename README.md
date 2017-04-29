@@ -65,7 +65,7 @@ categories:
 * Retrieval time: minutes, hours, days, weeks, months or more
 * Subject: by LC class letters from the
   [Outline](http://www.loc.gov/catdir/cpso/lcco/)
-* Era: current (this year), recent (last 20 years), last-century,
+* Era: current (six months), recent (last 20 years), last-century,
   antiquarian (older)
 * Market: Anglo-American, Western Europe, Eastern Asia, Latin America,
   Music, Video, [etc. by approval plans]
@@ -88,6 +88,7 @@ report will provide:
 * Number of last copies of titles
 * Owned copies lost/stolen/destroyed
 * Owned copies found
+* Number that must be recalled (count as days?)
 
 Some of these may be difficult to figure out, or perhaps impossible,
 but I'm starting with this goal for data collection.  I'd also like to
